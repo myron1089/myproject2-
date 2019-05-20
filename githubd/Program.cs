@@ -10,6 +10,7 @@ namespace githubd
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Has");
         }
     }
 }
